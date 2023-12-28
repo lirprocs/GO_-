@@ -1,5 +1,3 @@
-Мне нужно красиво оформить этот текст для Readme
-Можешь красиво оформить текст для Githab
 Необходимо написать функцию func merge2Channels(fn func(int) int, in1 <-chan int, in2 <- chan int, out chan<- int, n int).
 
 Описание ее работы:
